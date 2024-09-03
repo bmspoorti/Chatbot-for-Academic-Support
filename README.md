@@ -4,11 +4,11 @@ To design and implement a chatbot that provides academic support to university s
 by answering questions related to course content, providing information on academic
 deadlines, and offering guidance on university policies and resources.
 ## Expected Outcomes:
-• A fully functional chatbot capable of understanding complex queries in natural
+1. A fully functional chatbot capable of understanding complex queries in natural
 language
-• Implement NLP techniques like entity extraction, response generation and intent
+2. Implement NLP techniques like entity extraction, response generation and intent
 recognition
-• Evaluation of the chatbot performance through metrics such as accuracy, user
+3. Evaluation of the chatbot performance through metrics such as accuracy, user
 satisfaction, and response time
 ## Tasks:
 1. Literature Review: Comprehensive overview of existing NLP models and techniques
